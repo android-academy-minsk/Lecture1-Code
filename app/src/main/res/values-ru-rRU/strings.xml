@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FIFA Чемпионат мира 2018</string>
+    <string name="russia">Россия</string>
+    <string name="spain">Испания</string>
+    <string name="predict">Предсказать</string>
+</resources>

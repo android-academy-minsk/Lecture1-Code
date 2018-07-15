@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="country_text_size">20sp</dimen>
+    <dimen name="score_text_size">60sp</dimen>
+    <dimen name="base_padding">16dp</dimen>
+    <dimen name="flag_height">100dp</dimen>
+</resources>
